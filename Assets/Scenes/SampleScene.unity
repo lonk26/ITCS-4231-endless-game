@@ -2576,7 +2576,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverUI: {fileID: 1364030611}
-  retryButton: {fileID: 0}
+  retryButton: {fileID: 142879111}
   hitEffect: {fileID: 0}
 --- !u!1 &1190367407
 GameObject:
